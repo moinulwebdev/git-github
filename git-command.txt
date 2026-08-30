@@ -1,0 +1,209 @@
+  302  git config --list
+  303  git config --global --unset user.name
+  304  git config --global --unset user.email
+  305  git config --list
+  306  git config --global user.name="moinulwebdev"
+  307  git config --global user.name "moinulwebdev"
+  308  git config --global user.email "moinulwebdeveloper@gmail.com"
+  309  git config --list
+  310  pwd
+  311  cd ..
+  312  cd ..
+  313  pwd
+  314  ls
+  315  cd ..
+  316  ls
+  317  cd ..
+  318  ls -a
+  319  cd devops
+  320  G:
+  321  cd /g
+  322  pwd
+  323  ls
+  324  clear
+  325  pwd
+  326  cd G:
+  327  pwd
+  328  ls
+  329  ls -a
+  330  cd /d
+  331  ls
+  332  cd /e
+  333  ls -la
+  334  clear
+  335  ls -a
+  336  cd g
+  337  cd /g
+  338  ls
+  339  cd git-github-shubham
+  340  clear
+  341  clear
+  342  code .
+  343  ls -a
+  344  cat python3 testing.py
+  345  python testing.py
+  346  ls -la
+  347  ls -l
+  348  ls
+  349  rm testing.py
+  350  ls
+  351  clear
+  352  ls -a
+  353  ls -la
+  354  ls -la
+  355  git status
+  356  ls
+  357  git status
+  358  git status
+  359  git status
+  360  git rm --cached testing.py
+  361  git status
+  362  git add .
+  363  git status
+  364  pwd
+  365  cd /d
+  366  ls
+  367  cd /e
+  368  ls
+  369  cd /f
+  370  ls
+  371  cd /k
+  372  cd /g
+  373  ls
+  374  cd git-github-shubham
+  375  ls
+  376  touch devops.py
+  377  ls
+  378  python testing.py
+  379  git log
+  380  git status
+  381  git init
+  382  ls
+  383  la -a
+  384  ls -a
+  385  git status
+  386  git add devops.py
+  387  git status
+  388  git rm --cached
+  389  git rm --cached .
+  390  git rm -r --cached .
+  391  git status
+  392  clear
+  393  git status
+  394  git add .
+  395  clear
+  396  git status
+  397  git rm --cached devops.py
+  398  git status
+  399  git rm -r --cached
+  400  git rm -r --cached .
+  401  git status
+  402  git add .
+  403  git status
+  404  git rm -r --cached .
+  405  git status
+  406  git add .
+  407  git commit -m "Added testing file"
+  408  git status
+  409  git log
+  410  rm .
+  411  rm devops.py
+  412  rm -r .
+  413  rm testing.py
+  414  git status
+  415  touch another.py
+  416  git status
+  417  git add .
+  418  git status
+  419  git commit -m "Another file added"
+  420  git log
+  421  git restore
+  422  git restore .
+  423  git status
+  424  git restore devops.py
+  425  clear
+  426  git status
+  427  clear
+  428  git status
+  429  git log
+  430  touch more.py
+  431  git status
+  432  rm more.py
+  433  git status
+  434  touch more.py
+  435  git status
+  436  git add .
+  437  git status
+  438  rm more.py
+  439  git status
+  440  git restore more.py
+  441  git status
+  442  git add .
+  443  git status
+  444  rm more.py
+  445  git status
+  446  git restore more.py
+  447  git status
+  448  rm more.py
+  449  git status
+  450  git add .
+  451  git status
+  452  git restore more.py
+  453  git status
+  454  git restore --staged more.py
+  455  git status
+  456  git restore --source=HEAD -- more.py
+  457  git log --all -- more.py~
+  458  git log --all -- more.py
+  459  git status
+  460  clear
+  461  touch testing1.py
+  462  git status
+  463  git add .
+  464  git status
+  465  git commit -m "Testing1 file added"
+  466  git log
+  467  git rm testing1.py
+  468  git log
+  469  git status
+  470  git add .
+  471  git status
+  472  git restore --staged testing1.py
+  473  git status
+  474  git restore testing1.py
+  475  git status
+  476  git log
+  477  clear
+  478  git status
+  479  touch testing2.py
+  480  git status
+  481  git add .
+  482  git status
+  483  git rm testing2.py
+  484  git status
+  485  git rm testing2.py
+  486  git rm --cached testing2.py
+  487  git status
+  488  git add .
+  489  git status
+  490  git rm testing2.py
+  491  git status
+  492  git commit -m "testing2 added"
+  493  git log
+  494  git rm testing2.py
+  495  git status
+  496  git restore --staged testing2.py
+  497  git status
+  498  git restore testing2.py
+  499  git status
+  500  git log
+  501  clear
+  502  pwd
+  503  cd /g
+  504  ls
+  505  cd git-github-shubham
+  506  clear
+  507  pwd
+  508  ls
+  509  git history
+  510  history
