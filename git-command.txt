@@ -207,3 +207,22 @@
   508  ls
   509  git history
   510  history
+  511  git remote -v
+  512  clear
+  513  pwd
+  514  cd ..
+  515  pwd
+  516  mkdir git-github-clone
+  517  cd git-github-clone
+  518  ls
+  519  ls -la
+  520  clear
+  521  pwd
+  522  git clone https://github.com/moinulwebdev/git-github.git
+  523  pwd
+  524  ls
+  525  cd git-github
+  526  ls
+  527  ls -a
+  528  ls -la
+  529  clear
