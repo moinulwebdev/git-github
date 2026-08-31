@@ -226,3 +226,4 @@
   527  ls -a
   528  ls -la
   529  clear
+This is new command line interface
